@@ -8,7 +8,7 @@ dateparser = '*'
 
 [packages]
 ipaddress = '*'
-Django = "==1.6.1"
+Django = "==2.2.25"
 
 [requires]
 python_version = "3.6"
